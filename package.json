@@ -1,0 +1,12 @@
+{
+  "name": "codepen-portfolio",
+  "version": "1.0.0",
+  "description": "codepen portfolio",
+  "main": "server.js",
+  "author": "ben eaves",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "latest",
+    "node-static": "latest"
+  }
+}
